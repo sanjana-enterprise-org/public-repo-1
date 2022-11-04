@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:    
     - uses: actions/checkout@v2
-    - uses: sanjana-enterprise-org/private-action-1@main
+    - uses: sanjana-org-2/internal-action-1@main
